@@ -10,6 +10,6 @@ the source code or compile executable files compatible with your platform.
 
 ### Using Python 3.x Runtime and Flask Enviroment
 You can install the PSF Python 3.x Runtime and the Pip Package Manager at [Python.ORG](https://www.python.org/downloads) and using the command below to install Depencies:
-<code>
+<code bgcolor=#000000>
 pip install flask
 </code>
